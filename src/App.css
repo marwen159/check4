@@ -1,0 +1,65 @@
+:root
+{
+  --colorblue:blue;
+  --colorblack:black;
+}
+.text-title
+{
+  font-family: "Permanent Maker" ,cursive;
+  letter-spacing:0.3rem;
+  text-transform: uppercase;
+}
+.text-blue
+{
+  color: var(--colorblue);
+}
+.text-capitalize
+{
+  text-transform:capitalize;
+}
+.font-weight-bold
+{
+  font-weight: bold;
+}
+.box
+{
+  border:1px solid #0B162A;
+  margin:10px auto;
+  width:378px;
+  height:585px;
+  border-radius: 15px;
+  box-shadow: 0px -1px 18px;
+  position: fixed;
+  left: 36% ;
+  top:3%;
+ 
+}
+.image
+{
+  position: absolute;
+  left:27%;
+  top: 2%;
+}
+.img-kobir
+{
+  height:200px;
+  width: 200px;
+  border-radius: 50px;
+  box-shadow: 1px 18px 20px ;
+}
+.win
+{
+  position: absolute;
+  left: 17%;
+  top:40%;
+}
+.wintaw
+{
+  position: absolute;
+  left: 23%;
+  top:50%;
+}
+.body1
+{
+  background-color:gray;
+}
